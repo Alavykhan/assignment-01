@@ -1,0 +1,136 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;}
+
+.header{
+    margin-bottom: 20px;
+    
+}
+.logo{
+    margin-top: 3px;
+    width: 160px;
+}
+
+.logo img{
+    width: 60%;
+    padding-left: 50%;
+}
+
+.menu{
+    float: right;
+    margin-top: -75px;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    float: left;
+    margin-right: 25px;
+}
+#home a{
+    font-weight: 700;
+}
+#order a {
+    font-weight: 500;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 30px;
+    margin-top: -8px;
+}
+.menu ul li a{
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}
+.link-menu{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: black;
+    border-radius: 30px;
+    font-weight: 500;
+}
+.font-color{
+    color: #FD5030;
+}
+.intro{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 100px;
+   }
+   .display{
+    display: flex;
+   }
+.description{
+    padding: 80px 200px;
+}
+#pad-2{
+    padding: 0px 0px 20px;
+}
+#pad-3{
+    padding: 30px 0px -0px 0px;
+}
+.container{
+    display: flex;
+        margin-bottom: 100px;
+}
+.top-width{width: 50%;
+    padding-left: 6%;
+    padding-right: 10%;}
+h1{
+font-size: 100x;
+font-weight: 900;
+padding: 0px 150px 0px 0px;
+}
+#pad{
+    padding: 0px 150px 20px 0px;
+}
+.top-width img{
+    width: 100%;
+    position: relataive;
+}
+.offer{
+   margin-bottom: 100px;
+}
+.recipe{
+    display: flex;
+}
+.img{
+    border-radius: 10px;
+    padding: 5px;
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 5%;
+}
+.experience-item {
+    width: 300px;
+    height: 500px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px grey;}
+ .half-width{
+    width: 60%;
+    padding-left: 6%;
+    padding-right: 10%;}
+
+.experience{
+    text-align: center;
+    padding: 0px 400px 0px 400px;
+    margin-bottom: 40px;
+    }
+  
+footer{
+    margin-top: 50px;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
